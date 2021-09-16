@@ -1,3 +1,3 @@
 # PresentaciónCristian
-_Hola me gusta el pan y el queso, yo soy el pan y e encontrado mi queso y ahora somos un panquesito_ **•ω•**
+_Hello, i like bread and cheese too, im the break and i already found my cheese so we're a "Panquesito"_ **•ω•**
 ![URL syntyax] (img/url_syntax.png)
